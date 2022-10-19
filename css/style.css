@@ -1,0 +1,498 @@
+body {
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	background-color: #1E1B0B;
+}
+
+#cntrbody {
+	padding-top: 50px;
+}
+
+#bodyimg {
+	opacity: 1;
+	-webkit-transition: opacity 1s ease-in-out;
+	-moz-transition: opacity 1s ease-in-out;
+	-o-transition: opacity 1s ease-in-out;
+	-ms-transition: opacity 1s ease-in-out;
+	transition: opacity 1s ease-in-out;
+	width: 400px;
+	height: 400px;
+}
+
+#bodyimg.fade {
+	opacity: 0;
+}
+
+#introgjhs0 {
+	color: #0D98D5;
+}
+
+#introgjhs {
+	color: white;
+}
+
+#fillspace0 {
+	height: 1000px;
+}
+
+#ps5 {
+	background-color:#1E1B0B;
+	padding: 15px;
+}
+
+a {
+	color: #16E;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+a.visited {
+	color: #16E;
+}
+
+#gjhslogo {
+	position: absolute;
+	height: 220px;
+	margin-left: 200px; 
+	margin-top: -16px;
+}
+
+input {
+	height: 18px;
+	padding: 3px 4px;
+	font-size: 14px;
+	margin: 2px 0;
+}
+
+button {
+	padding: 4px 12px;
+	font-size: 14px;
+}
+
+h1 {
+	font-size: 75px;
+	font-weight: 400;
+}
+
+h2 {
+	font-size: 35px;
+	font-weight: bold;
+	color: white;
+}
+
+h3 {
+	font-size: 25px;
+	font-weight: 600;
+	color: white;
+}
+
+#printgjhsw {
+	float: right;
+	padding: 5px;
+	border: 0px solid #1E1B0B;
+	border-radius: 4px;
+	background: #1E1B0B;
+	color: #777777;
+	cursor: pointer;
+}
+
+#printgjhsw:hover {
+	color: #0D98D5;
+	background: #1E1B0B;
+}
+
+#personprayer {
+	color: #E0CCCC;
+}
+
+#somelinks {
+	color: #E0CCCC;
+}
+
+#abouty {
+	margin-top: -15px;
+	color: #E0CCCC;
+}
+
+#aboutydu {
+	margin-top: -15px;
+	color: #E0CCCC;
+}
+
+#small {
+	font-size: 22px;
+	color: #E0CCCC;
+	font-weight: 500;
+}
+
+#gjhswebby {
+	float: right;
+	height:30px;
+	width: 30px;
+	margin-top: -4px;
+	border-radius: 10px;
+}
+
+#gjhsppal {
+	text-align: right;
+	height: 0px;
+	margin-top: -23px;
+	padding-bottom: 10px;
+}
+
+#header {
+	border-radius: 2px;
+	background-color: #0D98D5;
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-top: 20px;
+	padding-bottom: 32px;
+}
+
+#footer {
+	background-color: #1E1B0B;
+	padding-top: 5px;
+	padding-left: 70px;
+	padding-bottom: 1px;
+}
+
+#wrap {
+	padding-left: 70px;
+	padding-right: 70px;
+	background-color: #2F2C2C;
+}
+
+#bottmfo {
+	color: gray;
+}
+
+#printgjhs {
+	color: black;
+}
+
+#dotherightthing {
+	border: 1px solid #faebcc;
+	border-radius: 3px;
+	background-color: #fff;
+	padding-left: 7px;
+	padding-right: 7px;
+	padding-top: 2px;
+	width: 100%;
+	margin-top: 10px;
+	margin-left: -2px;
+}
+
+.jumbotrona {
+	/*background-color: #EEEEEE;*/
+	background-color: #0D98D5;
+	color: #2F2F2E;
+	border: 2px solid #3B1A1A;
+	border-radius: 5px;
+	border-left: 15px solid white;
+	border-right: 15px solid white;
+	height: 290px;
+	padding-left: 50px;
+}
+
+.jumbotron {
+	/*background-color: #EEEEEE;*/
+	background-color: #0D98D5;
+	color: #2F2F2E;
+	border: 2px solid #3B1A1A;
+	border-left: 15px solid white;
+	border-right: 15px solid white;
+	border-radius: 5px;
+	padding-top: 10px;
+	padding-bottom: 40px;
+	padding-right: 60px;
+	padding-left: 50px;
+}
+
+.jumbotron2 {
+	/*background-color: #EEEEEE;*/
+	background-color: #0D98D5;
+	color: #2F2F2E;
+	border: 2px solid #3B1A1A;
+	border-left: 15px solid white;
+	border-right: 15px solid white;
+	padding-left: 15px;
+	border-radius: 6px;
+}
+
+#prevail {
+	color: #5B2C2C;
+	font-size: 22px;
+	margin-top: -40px;
+}
+
+#hooverssss2 {
+	color: black;
+	font-weight: bold;
+}
+
+#homeBtn {
+	border: 0px solid #1E1B0B;
+	background: #0D98D5;
+	margin-left: 27px;
+	color: black;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+#homeBtn:hover {
+	color: white;
+	background: #0D98D5;
+}
+
+#hooversad {
+	border: 0px solid #1E1B0B;
+	background: #0D98D5;
+	margin-left: 60px;
+	color: black;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+#hooversad:hover {
+	color: white;
+	background: #0D98D5;
+}
+		
+#hoovers {
+	border: 0px solid #1E1B0B;
+	background: #0D98D5;
+	margin-left: 18px;
+	color: black;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+#hoovers:hover {
+	color: white;
+	background: #0D98D5;
+}
+
+#hooversa {
+	border: 0px solid #1E1B0B;
+	background: #0D98D5;
+	margin-left: 18px;
+	color: black;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+#hooversa:hover {
+	color: white;
+	background: #0D98D5;
+}
+
+#hoovers0 {
+	border: 0px solid #1E1B0B;
+	background: #1E1B0B;
+	color: #777777;
+	border-radius: 4px;
+	font-size: 20px;
+	padding: 12px;
+	font-weight: 600;
+}
+
+#hoovers0:hover {
+	color: #0D98D5;
+	background: #1E1B0B;
+}
+		
+#hooverssss {
+	color: #0D98D5;
+	font-weight: bold;
+}
+		
+#hooverssss:hover {
+	color: white;
+	text-decoration: none;
+}
+		
+#hooverssss:focus {
+	text-decoration: none;
+}
+
+#hoovergjhs {
+	color: #0D98D5;
+	font-weight: 600;
+	word-wrap: break-word;
+}
+		
+#hoovergjhs:hover {
+	color: white;
+	text-decoration: none;
+}
+		
+#hoovergjhs:focus {
+	text-decoration: none;
+}
+
+#gjhsfoot {
+	color: gray;
+	padding-right: 70px;
+}
+
+#impoinfo {
+	font-size: 30px;
+}
+
+#hooverssssml {
+	color: #0D98D5;
+	font-weight: bold;
+}
+		
+#hooverssssml:hover {
+	color: white;
+	text-decoration: none;
+}
+		
+#hooverssssml:focus {
+	text-decoration: none;
+}
+
+/*Media screen*/
+@media all and (max-width: 1300px){
+	body {
+		width: 1300px;
+		height: 100%;
+		padding: 0;
+		margin: 0;
+	}
+	
+	#cntrbody {
+		padding-top: 250px;
+	}
+	
+	#gjhslogotemp { 
+		padding-top: 250px;
+	}
+	
+	#oneaboveall {
+		width: 1300px;
+	}
+	
+	#fillspace {
+		height: 1200px;
+	}
+	
+	#fillspace2 {
+		height: 1200px;
+	}
+	
+	h1 {
+		font-size: 82px;
+	}
+	
+	h2 {
+		font-size: 78px;
+	}
+	
+	h3 {
+		font-size: 62px;
+	}
+	
+	p {
+		font-size: 40px;
+	}
+	
+	#header {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	
+	#homeBtn {
+		font-size: 38px;
+	}
+	
+	#hooversad {
+		font-size: 38px;
+		margin-left: 50px;
+	}
+	
+	#hoovers {
+		font-size: 38px;
+		margin-left: 17px;
+	}
+	
+	#hooversa {
+		font-size: 38px;
+	}
+	
+	#gjhswebby {
+		height: 55px;
+		width: 50px;
+		margin-top: -31px;
+		margin-left: -35px;
+		border-radius: 15px;
+	}
+
+	#small {
+		font-size: 49px;
+		margin-top: -255px;
+	}
+	
+	.jumbotrona {
+		border: 2px solid #3B1A1A;
+		border-left: 25px solid white;
+		border-right: 25px solid white;
+		border-radius: 10px;
+		height: 355px;
+	}
+
+	.jumbotron {
+		border: 2px solid #3B1A1A;
+		border-left: 25px solid white;
+		border-right: 25px solid white;
+		border-radius: 10px;
+		padding-top: 25px;
+	}
+
+	.jumbotron2 {
+		border: 2px solid #3B1A1A;
+		border-left: 25px solid white;
+		border-right: 25px solid white;
+		border-radius: 10px;
+		height: 300px;
+	}
+	
+	#prevail {
+		font-size: 32px;
+	}
+	
+	#hoovers0 {
+		font-size: 33px;
+	}
+	
+	#printgjhsw {
+		font-size: 32px;
+	}
+
+	#aboutydu {
+		margin-top: -55px;
+	}
+	
+	#gjhslogo {
+		margin-left: 95px;
+		margin-top: 10px;
+	}
+	
+	#dotherightthing {
+		padding-left: 10px;
+		padding-right: 10px;
+		margin-top: 55px;
+	}
+	
+	.dotherightthing {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	
+	#impoinfo {
+		font-size: 72px;
+	}
+}
