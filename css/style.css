@@ -107,6 +107,10 @@ h3 {
 	color: #E0CCCC;
 }
 
+#personfile {
+	color: #E0CCCC;
+}
+
 #somelinks {
 	color: #E0CCCC;
 }
@@ -184,6 +188,10 @@ h3 {
 	margin-left: -2px;
 }
 
+#filefo {
+	color: black;
+}
+
 .jumbotrona {
 	/*background-color: #EEEEEE;*/
 	background-color: #0D98D5;
@@ -256,6 +264,20 @@ h3 {
 }
 
 #hooversad:hover {
+	color: white;
+	background: #0D98D5;
+}
+
+#hooversaf {
+	border: 0px solid #1E1B0B;
+	background: #0D98D5;
+	margin-left: 18px;
+	color: black;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+#hooversaf:hover {
 	color: white;
 	background: #0D98D5;
 }
@@ -396,6 +418,10 @@ h3 {
 		font-size: 62px;
 	}
 	
+	h4 {
+		font-size: 58px;
+	}
+	
 	p {
 		font-size: 40px;
 	}
@@ -412,6 +438,11 @@ h3 {
 	#hooversad {
 		font-size: 38px;
 		margin-left: 50px;
+	}
+	
+	#hooversaf {
+		font-size: 38px;
+		margin-left: 17px;
 	}
 	
 	#hoovers {
