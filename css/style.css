@@ -375,6 +375,25 @@ h4 {
 	text-decoration: none;
 }
 
+#linksStuff {
+	color: #0D98D5;
+	font-weight: 600;
+	word-wrap: break-word;
+}
+		
+#linksStuff:hover {
+	color: green;
+	text-decoration: none;
+}
+		
+#linksStuff:focus {
+	text-decoration: none;
+}
+
+#highred {
+	color: red;
+}
+
 #gjhsfoot {
 	color: gray;
 	padding-right: 70px;
